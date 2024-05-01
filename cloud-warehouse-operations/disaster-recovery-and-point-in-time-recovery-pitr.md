@@ -6,9 +6,9 @@ description: Hydra uses industry-standard practices to ensure your data is backe
 
 ## Disaster Recovery
 
-All Hydra plans are monitored continuously by our infrastructure and will automatically recover in the case of hardware failure. All production plans include high availability allowing seamless instant recovery should there be a failure. Staging plans will typically experience 5-10 minutes of downtime while replacement infrastructure is provisioned.
+All Hydra plans are monitored continuously by our infrastructure and will automatically recover in the case of hardware failure. All Pro plans have the option of high availability which allow seamless instant recovery should there be a failure. Plans without HA will typically experience 5-10 minutes of downtime while replacement infrastructure is provisioned.
 
-In addition, WAL (write-ahead logs) are backed up to an encrypted S3 bucket for 30 days, providing 11 9s (99.999999999%) durability. Should there be a need to restore your data from backup, we can restore your data to any point in the last 30 days. Should you need this service, please open a support ticket.
+In addition, WAL (write-ahead logs) are backed up to an encrypted S3 bucket for 7 days, providing 11 9s (99.999999999%) durability. Should there be a need to restore your data from backup, we can restore your data to any point in the last 7 days. Should you need this service, please open a support ticket.
 
 ## Point-in-time Recovery, Hydra Cloud
 
