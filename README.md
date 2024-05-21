@@ -19,7 +19,7 @@ layout:
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/Screen Shot 2024-01-30 at 3.42.06 PM (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Screen Shot 2024-01-30 at 3.42.06 PM.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
