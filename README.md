@@ -28,7 +28,7 @@ Hydra makes it easy to scale realtime apps and analytical reporting on Postgres.
 
 We developed Hydra Columnar, an open source database extension that adds an ultra fast columnar analytics engine to Postgres without the hassle of a database migration or rewriting application code.
 
-The current version of Hydra Columnar is [v1.1.1](https://github.com/hydradatabase/hydra/blob/main/CHANGELOG.md).
+The current version of Hydra Columnar is [v1.1.2](https://github.com/hydradatabase/hydra/blob/main/CHANGELOG.md).
 
 ## Getting Started
 
