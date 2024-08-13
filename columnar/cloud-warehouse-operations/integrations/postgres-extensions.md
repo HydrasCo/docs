@@ -80,16 +80,6 @@ This is a list of extensions that are available in Hydra:
  * plpython3u (1.0) - PL/Python3U untrusted procedural language
  * pltcl (1.0) - PL/Tcl procedural language
  * pltclu (1.0) - PL/TclU untrusted procedural language
- * postgis (3.2.1) - PostGIS geometry and geography spatial types and functions
- * postgis-3 (3.2.1) - PostGIS geometry and geography spatial types and functions
- * postgis_raster (3.2.1) - PostGIS raster types and functions
- * postgis_raster-3 (3.2.1) - PostGIS raster types and functions
- * postgis_sfcgal (3.2.1) - PostGIS SFCGAL functions
- * postgis_sfcgal-3 (3.2.1) - PostGIS SFCGAL functions
- * postgis_tiger_geocoder (3.2.1) - PostGIS tiger geocoder and reverse geocoder
- * postgis_tiger_geocoder-3 (3.2.1) - PostGIS tiger geocoder and reverse geocoder
- * postgis_topology (3.2.1) - PostGIS topology spatial types and functions
- * postgis_topology-3 (3.2.1) - PostGIS topology spatial types and functions
  * postgres_fdw (1.1) - foreign-data wrapper for remote PostgreSQL servers
  * refint (1.0) - functions for implementing referential integrity (obsolete)
  * seg (1.4) - data type for representing line segments or floating-point intervals
